@@ -15,7 +15,7 @@ Example of use:
 		<!-- <img src="images/logo.jpg"><br> //-->
 		<audio src="http://192.168.1.2:8000/mount_point" controls></audio>
 		<div id="cp"></div>
-		<script language="JavaScript">updateCP(); window.setInterval(updateCP, 5000);</script>
+		<script language="JavaScript">updateCP(); window.setInterval(updateCP, 5000);//update interval: 5s</script>
 		<a href="my@email.com"><font color="lightgray" size="-1">Contact me!</font></a>
 	</body>
 </html>
