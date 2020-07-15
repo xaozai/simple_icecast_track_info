@@ -1,6 +1,6 @@
 # A simple script that displays track information on your html page.
 
-Example of use:
+A simple example of using this script:
 ```
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
