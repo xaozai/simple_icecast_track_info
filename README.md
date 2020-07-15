@@ -20,3 +20,5 @@ Example of use:
     </body>
 </html>
 ```
+
+Note: if you use ezstream, it must be compiled with the libtagc0 library in order to correctly display data from ID3v2 mp3 tags.
