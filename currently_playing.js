@@ -13,8 +13,8 @@ function updateCP() {
                     });
                     div_cp.innerHTML = '<p>Currently playing: ' + str + '</p>';
                 }
-			}
-		}
-		xmlhttp.send(null);
+	    }
 	}
+	xmlhttp.send(null);
+    }
 }
