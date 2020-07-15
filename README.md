@@ -1,4 +1,4 @@
-# A simple script that displays track information on your html page.
+# A script that displays track information on your html page.
 
 A simple example of using this script:
 ```
