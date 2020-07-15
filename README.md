@@ -1,4 +1,4 @@
-# A script that displays track information on your html page.
+# Icecast track information on your html page.
 
 A simple example of using this script:
 ```
