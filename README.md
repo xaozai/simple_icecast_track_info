@@ -1,4 +1,4 @@
-# A simple script that displays the artist and track name on your html page.
+# A simple script that displays track information on your html page.
 
 Example of use:
 ```
