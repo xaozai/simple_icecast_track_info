@@ -1,5 +1,5 @@
 function updateCP() {
-    var div_cp = document.getElementById('cp');//The HTML document that uses this script must have a div tag with the id 'cp'.
+    var div_cp = document.getElementById('cp');//A HTML document that uses this script must have a div tag with the id 'cp'.
     if(typeof elem !== null && elem !== 'undefined' ) {
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.open('GET', 'http://192.168.1.2:8000/', true);//icecast broadcast address
