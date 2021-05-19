@@ -13,7 +13,7 @@ A simple example of using this script:
     <body bgcolor="black" style="color: lightgray; text-align: center;">
         <h1>My Radio</h1>
         <!-- <img src="images/logo.jpg"><br> //-->
-        <audio src="http://192.168.1.2:8000/mount_point" controls></audio>
+        <audio src="http://192.168.1.2:8000/mount_point" controls></audio> <!-- 194.116.73.162/fantasticap2 //-->
         <div id="cp"></div>
         <script language="JavaScript">updateCP(); window.setInterval(updateCP, 5000);//update interval: 5s</script>
         <a href="my@email.com"><font color="lightgray" size="-1">Contact me!</font></a>
